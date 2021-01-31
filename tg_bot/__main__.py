@@ -20,16 +20,15 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
-im a group manager bot maintained by  [this person](tg://user?id={}).
+I am an group manager bot
 
-My future updates will be put into This Channel - @MarieChechi & My Support Group @InFoTelGroup.
+Created by: @eliteDarkRay
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
-you can create clone same like me..
+For: @hedwigditto
 
 For more commands click /help...
 
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
+**Add me to your group**
 
 """
 
@@ -49,11 +48,19 @@ Hello! my name *{}*.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
 
-DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my creator](t.me/SonOfLars) to get me to where I am now, and every donation helps \
-motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
-(see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+DONATE_STRING = """Thanks for try to donating but
+*If you like to donate something to me but I am not in a state of receive donates will please Contact* https://t.me/Elitedarkray.
+If you have any problems using my bot please contact me I will fix it
+And try my another bots (list will add soon) because now bot is not completely fixed bot under maintenance
+Some time bot will come to slow that time you know bot under maintenance because this is my first work
+Have any mistakes in this bot please tell to me I will fix it
+But you don't worry because I never disturb in personal message or your group and your data's doesn't lose they will be safe in bot server
+If you want any help to manage group please contact me I will help you
+Then more features will add soon please wait for that
+Well everything is working fine let's enjoy with me in managing group
+*Thank you* 
+for using my bot
+@elitedarkray"""
 
 IMPORTED = {}
 MIGRATEABLE = []
