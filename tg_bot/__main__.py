@@ -62,8 +62,6 @@ Well everything is working fine let's enjoy with me in managing group
 *Thank you* 
 for using my bot
 @elitedarkray"""
-
-SAITAMA_IMG = "https://telegra.ph/file/273622e0681b730714b97.jpg"
  
 IMPORTED = {}
 MIGRATEABLE = []
